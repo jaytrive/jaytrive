@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaytrivedi
 - 👀 I’m interested in Programming & Coding
-- 🌱 I’m currently learning Front End part
+- 🌱 I’m currently learning Back End part
 - 💞️ I’m looking forward to get into the software domain
 - 📫 Reach me at trivedi.jay98@gmail.com
 
